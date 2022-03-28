@@ -1,4 +1,4 @@
-### 안녕하세요! 백엔드 개발자 황성현입니다.
+### HELLO!
 
 ![SH-HWA's GitHub stats](https://github-readme-stats.vercel.app/api?username=SH-HWA&show_icons=true&theme=default)
 
