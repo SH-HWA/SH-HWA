@@ -1,5 +1,11 @@
 ### HELLO!
 
+🔭 I’m currently working on BOLD9
+🌱 I’m currently learning GraphQL and Databases
+📫 How to reach me: raidi9069@gmail.com
+
+
+
 ![SH-HWA's GitHub stats](https://github-readme-stats.vercel.app/api?username=SH-HWA&show_icons=true&theme=default)
 
 <!--
