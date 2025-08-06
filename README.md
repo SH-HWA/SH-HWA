@@ -1,7 +1,5 @@
 ## HELLO!
 
-- 🔭 I’m currently working on BOLD9
-- 🌱 I’m currently learning GraphQL and Databases
 - 📫 How to reach me: raidi9069@gmail.com
 
 ## SkillSet
